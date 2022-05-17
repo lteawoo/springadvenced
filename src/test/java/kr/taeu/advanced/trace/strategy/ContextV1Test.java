@@ -1,9 +1,9 @@
 package kr.taeu.advanced.trace.strategy;
 
-import kr.taeu.advanced.trace.strategy.code.ContextV1;
-import kr.taeu.advanced.trace.strategy.code.Strategy;
-import kr.taeu.advanced.trace.strategy.code.StrategyLogic1;
-import kr.taeu.advanced.trace.strategy.code.StrategyLogic2;
+import kr.taeu.advanced.trace.strategy.code.strategy.ContextV1;
+import kr.taeu.advanced.trace.strategy.code.strategy.Strategy;
+import kr.taeu.advanced.trace.strategy.code.strategy.StrategyLogic1;
+import kr.taeu.advanced.trace.strategy.code.strategy.StrategyLogic2;
 import lombok.extern.slf4j.Slf4j;
 import org.junit.jupiter.api.Test;
 
